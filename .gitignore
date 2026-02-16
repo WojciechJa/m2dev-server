@@ -2,6 +2,10 @@
 pids.json
 share/locale/english/quest/object
 share/locale/english/quest/pre_qc
+share/conf/db.txt
+share/conf/game.txt
+sql/my.cnf
+sql/my.cnf.bak_for_mysql5.6
 
 # =======================================================
 # FULLY CASE-INSENSITIVE BACKUP EXCLUSIONS
