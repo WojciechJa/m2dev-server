@@ -6,6 +6,8 @@ share/conf/db.txt
 share/conf/game.txt
 sql/my.cnf
 sql/my.cnf.bak_for_mysql5.6
+install.py
+panel.py
 
 # =======================================================
 # FULLY CASE-INSENSITIVE BACKUP EXCLUSIONS
