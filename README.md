@@ -1,5 +1,7 @@
 # M2Dev Server
 
+> Mapa architektury i przepływów cross-repo: [m2dev-docs](https://github.com/WojciechJa/m2dev-docs).
+
 This repository contains the core server files and configurations. It includes fixes for database performance, quest logic, and crucial setup scripts.
 
 **For installation and configuration, see [instructions](#installationconfiguration) below.**
