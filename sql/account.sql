@@ -25,7 +25,7 @@ DROP TABLE IF EXISTS `account`;
 CREATE TABLE `account` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `login` varchar(30) NOT NULL DEFAULT '',
-  `password` varchar(45) NOT NULL DEFAULT '',
+  `password` varchar(255) NOT NULL DEFAULT '',
   `social_id` varchar(13) NOT NULL DEFAULT '',
   `email` varchar(64) NOT NULL DEFAULT '',
   `create_time` datetime NOT NULL DEFAULT '0000-00-00 00:00:00',
